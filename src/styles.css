@@ -25,14 +25,14 @@
 *{box-sizing:border-box}
 body{
   margin:0;
-  font-family: 'Trirong', Georgia, serif;
+  font-family: 'Raleway', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
   background:linear-gradient(180deg, var(--surface), transparent);
   color:var(--text);
   -webkit-font-smoothing:antialiased;
 }
 
 h1,h2,h3,h4{
-  font-family: 'Trirong', serif;
+  font-family: 'Raleway', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
   color:var(--brand);
 }
 
