@@ -35,15 +35,15 @@ export default function App(){
 
         <section id="history" className="card">
           <h2>Historical Highlights</h2>
-          <div style={{display: 'flex', gap: '20px', alignItems: 'flex-start'}}>
-            <div style={{flex: 1}}>
+          <div style={{display: 'flex', gap: '20px', alignItems: 'flex-start', flexWrap: 'wrap'}}>
+            <div style={{flex: '1 1 300px', minWidth: 0}}>
               <p>In October of 1987, Reverend Johnny Pack IV was led by the Holy Spirit to organize a church. He had never taken on a task like this one before and it was a bit overwhelming. Being obedient he did as he was led and thus was born the Fellowship Missionary Baptist Church, which was so named by Reverend Pack.</p>
 
               <p>It was October 14, 1987 when Reverend Pack and 64 persons were meeting in a Masonic Lodge Hall at 635 N. Killingsworth Court for a Prayer Meeting when he received the vision to organize a church. All that were present united with the new church at that time. And Pastor Pack began his tenure without a salary.</p>
 
               <p>Pastor Pack organized the church with various ministries that would meet the mandate that was before us. The first choir rehearsal and ushers meeting was held on October 16, 1987 where 40 persons were in attendance.</p>
             </div>
-            <img src="/web_graphics/fmbc outdoor.jpg" alt="Fellowship Missionary Baptist Church" style={{maxWidth: '500px', height: 'auto', borderRadius: '8px', flexShrink: 0}} />
+            <img src="/web_graphics/fmbc outdoor.jpg" alt="Fellowship Missionary Baptist Church" style={{flex: '0 1 400px', maxWidth: '100%', width: '400px', height: 'auto', borderRadius: '8px', objectFit: 'cover'}} />
           </div>
 
           <p>The first official Worship Service of the newly organized Fellowship Missionary Baptist Church was on Sunday, October 18, 1987 with over 200 persons in attendance. Fifty-five more people united with the church at this service.</p>
