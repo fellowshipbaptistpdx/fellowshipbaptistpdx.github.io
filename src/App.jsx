@@ -16,9 +16,17 @@ export default function App(){
           <h2>Seeking a Full-Time Pastor</h2>
           <p>Fellowship Missionary Baptist Church in Portland, OR is actively seeking a senior pastor whom God has prepared to lead, guide, and minister to our congregation and community.</p>
           <a className="btn" href="/web_docs/FMBC%20Pastoral%20Application%20Packet%20-%20Jan%202026.pdf" download="FMBC Pastoral Application Packet - Jan 2026.pdf">Download Application Packet</a>
-          <p>Please download application, fill and send via email or physical mailbox:</p>
-          <p>Email: <a href="mailto:info@fellowshipbaptistpdx.org">info@fellowshipbaptistpdx.org</a></p>
-          <p>Address: 4009 N Missouri Ave, Portland, OR 97227</p>
+          <br/><br/>
+          <p>Please download our application packet, fill-out per included instructions, and send via email or to our physical mailbox.</p>
+          <br/>
+          <p>Send via e-mail to (w/ <b>Subject: Pastoral Search</b>): </p>
+          <blockquote><a href="mailto:admin@fellowshipbaptistpdx.org">admin@fellowshipbaptistpdx.org</a></blockquote>
+          <br/>
+          <p>Physical Mailbox Address: </p>
+          <blockquote><p>Fellowship Missionary Baptist Church</p>
+          <p>Attn: Pastor Search Committee</p>
+          <p>P.O. Box 12380</p>
+          <p>Portland, OR 97212</p></blockquote>
         </section>
         <section id="welcome" className="card">
           <h2>Welcome</h2>
@@ -68,7 +76,7 @@ export default function App(){
 
         <section id="contact" className="card">
           <h2>Contact Us</h2>
-          <p>Email: <a href="mailto:info@fellowshipbaptistpdx.org">info@fellowshipbaptistpdx.org</a></p>
+          <p>Email: <a href="mailto:admin@fellowshipbaptistpdx.org">admin@fellowshipbaptistpdx.org</a></p>
           <p>Address: 4009 N Missouri Ave, Portland, OR 97227</p>
           <p>Phone: (503) 249-0377</p>
         </section>
