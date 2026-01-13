@@ -14,7 +14,7 @@ export default function App(){
         <section id="announcement" className="card notice">
           <h2>Seeking a Full-Time Pastor</h2>
           <p>Fellowship Missionary Baptist Church in Portland, OR is actively seeking a senior pastor whom God has prepared to lead, guide, and minister to our congregation and community.</p>
-          <a className="btn" href="/web_docs/Pastor%20Application%20Form%20122425.pdf" download="Pastor Application Form 122425.pdf">Download Application Packet</a>
+          <a className="btn" href="/web_docs/FMBC%20Pastoral%20Application%20Packet%20-%20Jan%202026.pdf" download="FMBC Pastoral Application Packet - Jan 2026.pdf">Download Application Packet</a>
           <p>Please download application, fill and send via email or physical mailbox:</p>
           <p>Email: <a href="mailto:info@fellowshipbaptistpdx.org">info@fellowshipbaptistpdx.org</a></p>
           <p>Address: 4009 N Missouri Ave, Portland, OR 97227</p>
@@ -37,9 +37,7 @@ export default function App(){
           <h2>Historical Highlights</h2>
           <div style={{display: 'flex', gap: '20px', alignItems: 'flex-start', flexWrap: 'wrap'}}>
             <div style={{flex: '1 1 300px', minWidth: 0}}>
-              <p>In October of 1987, Reverend Johnny Pack IV was led by the Holy Spirit to organize a church. He had never taken on a task like this one before and it was a bit overwhelming. Being obedient he did as he was led and thus was born the Fellowship Missionary Baptist Church, which was so named by Reverend Pack.</p>
-
-              <p>It was October 14, 1987 when Reverend Pack and 64 persons were meeting in a Masonic Lodge Hall at 635 N. Killingsworth Court for a Prayer Meeting when he received the vision to organize a church. All that were present united with the new church at that time. And Pastor Pack began his tenure without a salary.</p>
+              <p>It was October 14, 1987, when Reverend Pack and 64 persons were meeting in a Masonic Lodge Hall at 635 N. Killingsworth Ct. for a Prayer Meeting, when Reverend Johnny Pack IV received a vision and was led by the Holy Spirit to organize a church. Being obedient, he did as he was led and thus was born the Fellowship Missionary Baptist Church, as so given by Reverend Pack. All who were present united with the new church at that time. And Pastor Pack began his tenure without a salary.</p>
 
               <p>Pastor Pack organized the church with various ministries that would meet the mandate that was before us. The first choir rehearsal and ushers meeting was held on October 16, 1987 where 40 persons were in attendance.</p>
             </div>
@@ -54,7 +52,17 @@ export default function App(){
 
           <p>Through much prayer and searching, the Lord led us to 4009 North Missouri Avenue —our present location. Our first service held in our new location was held on December 31, 1989 for our Annual New Year's Eve Watch Night Service.</p>
 
-          <p>On January 7, 1990 we marched to our current location from the Lodge Hall where our humble beginnings began. As we marched the Portland Police escorted us, some were in cars, some on foot and others were driven in a horse drawn carriage. The church family fellowshipped together with a Continental Breakfast and after the 11 AM Worship Service the church family dined together!</p>
+          <p>On January 7, 1990 we marched to our current location from the Lodge Hall where our humble beginnings began. As we marched the Portland Police escorted us, some were in cars, some on foot and others were driven in a horse drawn carriage. The church family fellowshipped together with a Continental Breakfast and after the 11 AM Worship Service the church family dined together.</p>
+
+          <p>With the aid of the Holy Spirit, Fellowship has continued to thrive, adding many ministries and members over the past 38 years. We have served Christ and have been a beacon of light and hope to our community.</p>
+
+          <p>Reverend Johnny Pack IV retired as Pastor of Fellowship in October 2020 due to his health. We are grateful to Reverend Pack for his 33 years as Founder, Organizer, and Leader of the 'Ship'.</p>
+
+          <p>Our Church has continued our Christian journey with God's help and direction. We have had our difficulties, but we remain faithful in doing the Lord's work as He continues to bless us.</p>
+
+          <p>We are a small congregation, few in number, empowered by God to welcome all, love all, and perform the Great Commission (<a href="https://www.biblegateway.com/passage/?search=Matthew%2028%3A16-20&version=NIV" target="_blank" rel="noopener noreferrer">Matthew 28:16-20</a>).</p>
+
+          <p>We believe and trust that God has a blessing and plan for Fellowship as we seek God's guidance and direction, welcoming a new leader who is called by God and led by the Holy Spirit. This leader will usher in a new season where God will get all the Glory, all the Honor, and all the Praise. The SHIP continues to sail…</p>
         </section>
 
         <section id="contact" className="card">
