@@ -5,6 +5,7 @@ import Footer from './components/Footer'
 import UnderHero from './components/UnderHero'
 
 export default function App(){
+  // Force rebuild with new hash
   return (
     <div>
       <Header />
@@ -21,7 +22,7 @@ export default function App(){
         </section>
         <section id="welcome" className="card">
           <h2>Welcome</h2>
-          <p>We are a loving, Christ-centered community in Portland, Oregon, dedicated to worship, service, and spiritual growth. Join us as we seek to follow Jesus and serve our neighbors.</p>
+          <p>We are a loving, Christ-centered community in Portland, Oregon, dedicated to worship, service, and spiritual growth. Join us as we seek to follow Jesus and serve our neighbors. 🙏</p>
         </section>
 
         <section id="services" className="card">
@@ -40,11 +41,11 @@ export default function App(){
               <p>It was October 14, 1987, when Reverend Pack and 64 persons were meeting in a Masonic Lodge Hall at 635 N. Killingsworth Ct. for a Prayer Meeting, when Reverend Johnny Pack IV received a vision and was led by the Holy Spirit to organize a church. Being obedient, he did as he was led and thus was born the Fellowship Missionary Baptist Church, as so given by Reverend Pack. All who were present united with the new church at that time. And Pastor Pack began his tenure without a salary.</p>
 
               <p>Pastor Pack organized the church with various ministries that would meet the mandate that was before us. The first choir rehearsal and ushers meeting was held on October 16, 1987 where 40 persons were in attendance.</p>
+
+              <p>The first official Worship Service of the newly organized Fellowship Missionary Baptist Church was on Sunday, October 18, 1987 with over 200 persons in attendance. Fifty-five more people united with the church at this service.</p>
             </div>
             <img src="/web_graphics/fmbc outdoor.jpg" alt="Fellowship Missionary Baptist Church" style={{flex: '0 1 400px', maxWidth: '100%', width: '400px', height: 'auto', borderRadius: '8px', objectFit: 'cover'}} />
           </div>
-
-          <p>The first official Worship Service of the newly organized Fellowship Missionary Baptist Church was on Sunday, October 18, 1987 with over 200 persons in attendance. Fifty-five more people united with the church at this service.</p>
 
           <p>On November 1, 1987 our First Evening Worship Service was held. First Baptism service was held at the Morning Star Baptist Church with Communion service following. Baptist Training Union ministry also began at that time. The Mother's Ministry sponsored a Harvest Tea and we had our First Thanksgiving Service and our first Fellowship Dinner that same month.</p>
 
