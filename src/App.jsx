@@ -15,7 +15,7 @@ export default function App(){
         <section id="announcement" className="card notice">
           <h2>Seeking a Full-Time Pastor</h2>
           <p>Fellowship Missionary Baptist Church in Portland, OR is actively seeking a senior pastor whom God has prepared to lead, guide, and minister to our congregation and community.</p>
-          <a className="btn" href="/web_docs/FMBC%20Pastoral%20Application%20Packet%20-%20Jan%202026.pdf" download="FMBC Pastoral Application Packet - Jan 2026.pdf">Download Application Packet</a>
+          <a className="btn" href="/web_docs/FMBC%20Pastoral%20Application%20Packet%20-%20Feb-1-2026.pdf" download="FMBC Pastoral Application Packet - Feb-1-2026.pdf">Download Application Packet</a>
           <br/><br/>
           <p>Please download our application packet, fill-out per included instructions, and send via email or to our physical mailbox.</p>
           <br/>
